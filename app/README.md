@@ -1,4 +1,2 @@
-# belajar-docker# Repository-Baru
-# adj
-# adj
-# adj
+# belajar-docker Repository-Baru
+# tugas adj
