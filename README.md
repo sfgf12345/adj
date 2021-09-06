@@ -10,7 +10,7 @@ langkah :
 3. Buat Images, saya pakai apl golang v.1.11.4 untuk menampilkan "hello padel" berupa website
 4. Kemudian buat Dockerfile, letakkan di dalam satu folder bersama main.go yaitu folder app. Isi dari Dockerfile nya![image](https://user-images.githubusercontent.com/66856996/132239270-5a50d98a-df3d-43b4-9630-6ad38fc49c63.png)
 <br>
-FROM > kita buat image dari image yg sudah ada
+FRO > kita buat image dari image yg sudah ada
 <br>
 COPY > copy semua file yg dibutuhkan
 <br>
