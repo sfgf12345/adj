@@ -7,7 +7,6 @@ Tampilan Depan :
 langkah :
 1. Install docker
 2. Container Registry, daftar ke dockerhub agar bisa memakai image yg sudah ada disana ![image](https://user-images.githubusercontent.com/66856996/132238996-24805853-65f8-47bc-98fe-0172b217c262.png)
-
 3. Buat Images, saya pakai apl golang v.1.11.4 untuk menampilkan "hello padel" berupa website
 4. Kemudian buat Dockerfile, letakkan di dalam satu folder bersama main.go yaitu folder app. Isi dari Dockerfile nya![image](https://user-images.githubusercontent.com/66856996/132239270-5a50d98a-df3d-43b4-9630-6ad38fc49c63.png)
 <br>
