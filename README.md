@@ -1,11 +1,10 @@
 # Fadhil Zuhairsyah 191402138
 <br>
 Tampilan Depan :
-![image  width="20%"](https://user-images.githubusercontent.com/66856996/131910375-caf2bc2c-0b25-4078-b7c5-43d2343d6fc1.png) 
+![image](https://user-images.githubusercontent.com/66856996/131910375-caf2bc2c-0b25-4078-b7c5-43d2343d6fc1.png) 
 <br>
 <br>
 langkah :
-<br>
 1. Install docker
 2. Container Registry, daftar ke dockerhub agar bisa memakai image yg sudah ada disana ![image](https://user-images.githubusercontent.com/66856996/132238996-24805853-65f8-47bc-98fe-0172b217c262.png)
 
