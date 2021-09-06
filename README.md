@@ -19,6 +19,9 @@ COPY > copy semua file yg dibutuhkan
 CMD > kita beritahu ke image bagaimana cara nge run aplikasi kita
 <br>
 5. Kemudian build image nya dari Dockerfile tadi  ![image](https://user-images.githubusercontent.com/66856996/132240033-9af2fc8f-b3f8-4ed1-8042-e6e386cc0842.png)
+<br>
 6. Kemudian buat container dari image yang dibuat dengan port 8080:8080  ![image](https://user-images.githubusercontent.com/66856996/132240124-a3adbbd3-6bb3-49e6-92be-8e9d1588e578.png)
+<br>
 7. Lalu jalankan > Docker container start
+<br>
 8. Buka di browser > localhost:8080
